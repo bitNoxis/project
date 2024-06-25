@@ -1,0 +1,10 @@
+button = RoundedButton(root,
+                           200,
+                           50,
+                           25,
+                           2,
+                           '#42D742',
+                           'white',
+                           text="Get Started",
+                           text_color="black",
+                           command=lambda: )
